@@ -1,6 +1,6 @@
 import sys,math
 from math import exp,log
 if __name__=='__main__':
-  e=2.1;y=exp(e)
-  t=3*log(y)
+  e=8.6;y=exp(e)
+  t=9*log(y)
   print(t)
